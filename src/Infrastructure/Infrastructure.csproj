@@ -52,7 +52,7 @@
     <PackageReference Include="System.Linq.Dynamic.Core" Version="1.2.13" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="Roslynator.Analyzers" Version="3.2.2">
+    <PackageReference Include="Roslynator.Analyzers" Version="4.2.0">
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
